@@ -1,5 +1,5 @@
 variable "aws_region" {
-  description = "The AWS region in which to create the bucket"
+  description = "The AWS region in which to create the ECR Repository"
   default     = "ap-southeast-2" // Change this to your preferred default region
 }
 
